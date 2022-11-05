@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="21.732">
+    <testcase classname="Urun Sepete Ekleme" name="Anasayfadaki URL in dogru geldiginin kontrol edilmesi" time="15.849">
+        <system-out>
+            <![CDATA[* Cerez kabul pop up ini max "5" sn bekle.Gorunur olunca kabul et butonuna tikla.passed
+* Anasayfadaki URL "https://www.network.com.tr/" seklinde mi kontrol edilir.passed
+* Anasayfa arama alaninda "Ceket" aratilir..................................passed
+* Anasayfa arama alaninda ENTER tusuna basilir..............................passed
+* "6000" ms bekle...........................................................passed
+* Daha Fazla Goster butonuna tiklanir ve sayfalarin acildigi kontrol edilir.passed
+* Indirimli ilk urune hover edilir..........................................passed
+* Rastgele urun secimi yapilir..............................................passed
+* Sepete Git Tiklanilir.....................................................passed
+* Devam Et Butonuna Tiklanir................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
